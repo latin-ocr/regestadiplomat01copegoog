@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestadiplomat01copegoog_0686.png"; bbox 0 0 1154 1465; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 758 162 830 200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 758 162 830 200">
+     <span class='ocr_line' id='line_1_1' title="bbox 771 162 815 178; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 771 162 815 178; x_wconf 72' lang='lat'>1524.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 758 187 830 200; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 758 187 777 200; x_wconf 74' lang='lat'>24.</span> <span class='ocrx_word' id='word_1_3' title='bbox 787 187 830 200; x_wconf 70' lang='lat' dir='ltr'>Beehr.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 757 282 829 295">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 757 282 829 295">
+     <span class='ocr_line' id='line_1_3' title="bbox 757 282 829 295; baseline -0.014 0"><span class='ocrx_word' id='word_1_4' title='bbox 757 282 777 295; x_wconf 78' lang='lat'>2⁷.</span> <span class='ocrx_word' id='word_1_5' title='bbox 786 282 829 295; x_wconf 67' lang='lat' dir='ltr'>flecht,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 757 376 829 390">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 757 376 829 390">
+     <span class='ocr_line' id='line_1_4' title="bbox 757 376 829 390; baseline -0.014 0"><span class='ocrx_word' id='word_1_6' title='bbox 757 376 777 390; x_wconf 68' lang='grc'>29.</span> <span class='ocrx_word' id='word_1_7' title='bbox 786 377 829 389; x_wconf 71' lang='lat' dir='ltr'>Decbr.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 756 475 829 489">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 756 475 829 489">
+     <span class='ocr_line' id='line_1_5' title="bbox 756 475 829 489; baseline -0.014 0"><span class='ocrx_word' id='word_1_8' title='bbox 756 476 777 489; x_wconf 69' lang='grc' dir='ltr'>Ἡ.</span> <span class='ocrx_word' id='word_1_9' title='bbox 786 475 829 488; x_wconf 63' lang='lat' dir='ltr'>flecht.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 756 578 824 592">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 756 578 824 592">
+     <span class='ocr_line' id='line_1_6' title="bbox 756 578 824 592; baseline -0.015 -1"><span class='ocrx_word' id='word_1_10' title='bbox 756 578 824 592; x_wconf 60' lang='lat' dir='ltr'>betonem.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 757 652 825 665">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 757 652 825 665">
+     <span class='ocr_line' id='line_1_7' title="bbox 757 652 825 665; baseline -0.015 0"><span class='ocrx_word' id='word_1_11' title='bbox 757 652 825 665; x_wconf 64' lang='lat' dir='ltr'>numm,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 755 755 823 768">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 755 755 823 768">
+     <span class='ocr_line' id='line_1_8' title="bbox 755 755 823 768; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 755 755 823 768; x_wconf 51' lang='lat' dir='ltr'>Decumum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
